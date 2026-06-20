@@ -1,0 +1,15 @@
+# Compiled Executables & Binaries
+CustomsOSApp
+test1
+*.o
+*.out
+
+# Generated Reports Directory
+reports/
+
+# Local CSV databases
+*.csv
+
+# OS-specific files
+.DS_Store
+Thumbs.db
