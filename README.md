@@ -5,7 +5,6 @@
 [![Language: C++](https://img.shields.io/badge/Language-C%2B%2B17-blue.svg?style=flat-square)](https://en.cppreference.com/w/cpp/17)
 [![Platform: Cross-Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey.svg?style=flat-square)](#)
 [![DSA Focus: Advanced](https://img.shields.io/badge/DSA-Comprehensive-orange.svg?style=flat-square)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 CustomOS is an educational yet highly realistic customs management simulation platform designed to showcase the practical applications of core **Data Structures and Algorithms (DSA)** in global logistics and supply chain security. By modeling the complete journey of imported/exported cargo—from hierarchical classification and historical document audits to queue inspection, sorting, port routing, and priority scheduling—CustomOS demonstrates how algorithmic solutions solve complex real-world trade problems.
 
@@ -34,7 +33,6 @@ CustomOS is an educational yet highly realistic customs management simulation pl
   - [🎓 Learning Objectives](#-learning-objectives)
   - [🚀 Future Enhancements](#-future-enhancements)
   - [🛠️ Technology Stack](#️-technology-stack)
-  - [📄 License](#-license)
 
 ---
 
@@ -446,12 +444,6 @@ CustomOS serves as an educational framework for mastering core software engineer
     *   **IDE**: Visual Studio Code (VS Code) / CLion
     *   **Build Automation**: GNU Make (Makefile)
     *   **Version Control**: Git & GitHub
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
